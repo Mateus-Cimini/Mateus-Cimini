@@ -1,47 +1,82 @@
 <h1 align="center">Mateus Cimini Araújo</h1>
 
 <p align="center">
-Desenvolvedor Full Stack em formação, focado em construir aplicações modernas e funcionais com tecnologias web.
+Desenvolvedor Full Stack em formação — construindo projetos práticos e responsivos com foco em aplicações reais.
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Atualmente em transição de carreira e focado no aprendizado contínuo em desenvolvimento web.  
-Tenho construído projetos práticos que simulam aplicações reais para fortalecer meu portfólio e aplicar na prática os conceitos aprendidos.
+Sou um desenvolvedor em formação, atualmente em transição de carreira e estudando de forma intensa para atuar como **desenvolvedor full stack**. Tenho focado em projetos que simulam aplicações reais para aplicar o que aprendo em **HTML, CSS, JavaScript** e ferramentas modernas do ecossistema web.
 
-Busco minha primeira oportunidade profissional como desenvolvedor, com grande interesse em atuar em ambientes colaborativos e com foco em crescimento técnico.
-
----
-
-## 🛠️ Tecnologias que uso
-
-- HTML5 / CSS3
-- JavaScript
-- jQuery
-- Bootstrap
+Busco minha primeira oportunidade na área, com interesse em ambientes colaborativos onde possa crescer como profissional e contribuir com soluções de qualidade.
 
 ---
 
-## 🚀 Estudando atualmente
+## 🧰 Tecnologias que uso
 
-- SASS
-- LESS
-- GULP
-- Grunt
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
-## 📁 Repositórios em destaque
+## 🧠 Atualmente estudando
 
-Você pode visualizar meus projetos em destaque no meu [perfil GitHub](https://github.com/Mateus-Cimini), todos com README completos e pensados para demonstrar meu aprendizado técnico.
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=flat&logo=less&logoColor=white)
+![Gulp](https://img.shields.io/badge/GULP-CF4647?style=flat&logo=gulp&logoColor=white)
+![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat&logo=grunt&logoColor=white)
+
+---
+
+## 📈 Nível de conhecimento (autoavaliação)
+
+| Tecnologia        | Nível           |
+|-------------------|------------------|
+| HTML / CSS        | ✅ Bom           |
+| JavaScript        | ✅ Intermediário |
+| jQuery            | ✅ Intermediário |
+| Bootstrap         | ✅ Intermediário |
+| SASS / LESS       | 🔄 Aprendendo    |
+| Gulp / Grunt      | 🔄 Aprendendo    |
+
+---
+
+## 🧪 Projetos em destaque
+
+### 🎮 [YoungRift](https://young-rift.vercel.app/)
+Portal fictício de notícias sobre Wild Rift com múltiplas páginas, tema escuro, modais, toasts, sidebar e minigame.
+
+> ![YoungRift Screenshot](./docs/youngrift-preview.png)  
+> [🔗 Repositório](https://github.com/Mateus-Cimini/YoungRift)
+
+---
+
+### 📱 [RiftContacts](https://mateus-cimini-rift-contacts.vercel.app/)
+Simulador de lista de contatos com modal, formulário, busca em tempo real e exclusão dinâmica.
+
+> ![RiftContacts Screenshot](./docs/riftcontacts-preview.png)  
+> [🔗 Repositório](https://github.com/Mateus-Cimini/Rift-Contacts)
+
+---
+
+### 🧩 [montandoSuaPool](https://montando-sua-pool-6tvh.vercel.app/)
+App simples para montar sua pool de campeões, escolhendo a partir de uma lista com pesquisa, tabela dinâmica e contagem total.
+
+> ![montandoSuaPool Screenshot](./docs/pool-preview.png)  
+> [🔗 Repositório](https://github.com/Mateus-Cimini/montandoSuaPool)
+
+> ⚠️ **Você pode adicionar as imagens `preview.png` de cada projeto dentro da pasta `/docs/` de cada repositório para esses prints funcionarem automaticamente.**
 
 ---
 
 ## 📫 Contato
 
-- 📧 E-mail: mateusmateus122333@gmail.com  
+- 📧 E-mail: [mateusmateus122333@gmail.com](mailto:mateusmateus122333@gmail.com)  
 - 📱 WhatsApp: (33) 99808-7393
 
 ---
