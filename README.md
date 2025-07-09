@@ -1,19 +1,56 @@
-<lang="pt-br">
-- 👋 Olá, sou @Mateus-Cimini
-- 👀 Estou interessado em me desenvolver na area de programaçao
-- 🌱 Atualmente estou aprendendo Javascript,Html e Css para frontend mas sei o basico de Python
-- 💞️ Procuro colaborar no que for precisso para aprender mais sobre programaçao
-- 📫 Como entrar em contato comigo whats/telegram (33) 9 98087393 email:mateusmateus122333@gmail.com
-- ⚡ Curiosidade: Estudando programaçao a menos de um mes!
-- 
-Estou animado para compartilhar meus projetos e aprender com a comunidade! 🚀
+<h1 align="center">Mateus Cimini Araújo</h1>
 
-  <lang="en">
-- 👋 Hello, I'm @Mateus-Cimini
-- 👀 I am interested in developing in the programming area
-- 🌱 I'm currently learning Javascript, HTML and Css for frontend but I know the basics of Python
-- 💞️ I try to collaborate in whatever way necessary to learn more about programming
-- 📫 How to contact me whats/telegram (33) 9 98087393 email:mateusmateus122333@gmail.com
-- ⚡ Fun fact: Studying programming for less than a month!
+<p align="center">
+Desenvolvedor Full Stack em formação, focado em construir aplicações modernas e funcionais com tecnologias web.
+</p>
 
-I'm excited to share my projects and learn from the community! 🚀
+---
+
+## 👨‍💻 Sobre mim
+
+Atualmente em transição de carreira e focado no aprendizado contínuo em desenvolvimento web.  
+Tenho construído projetos práticos que simulam aplicações reais para fortalecer meu portfólio e aplicar na prática os conceitos aprendidos.
+
+Busco minha primeira oportunidade profissional como desenvolvedor, com grande interesse em atuar em ambientes colaborativos e com foco em crescimento técnico.
+
+---
+
+## 🛠️ Tecnologias que uso
+
+- HTML5 / CSS3
+- JavaScript
+- jQuery
+- Bootstrap
+
+---
+
+## 🚀 Estudando atualmente
+
+- SASS
+- LESS
+- GULP
+- Grunt
+
+---
+
+## 📁 Repositórios em destaque
+
+Você pode visualizar meus projetos em destaque no meu [perfil GitHub](https://github.com/Mateus-Cimini), todos com README completos e pensados para demonstrar meu aprendizado técnico.
+
+---
+
+## 📫 Contato
+
+- 📧 E-mail: mateusmateus122333@gmail.com  
+- 📱 WhatsApp: (33) 99808-7393
+
+---
+
+<details>
+<summary>📌 Status atual</summary>
+
+🧑‍🎓 Estudando desenvolvimento Full Stack  
+📚 Criando projetos práticos para portfólio  
+📩 Disponível para entrevistas e testes técnicos  
+
+</details>
