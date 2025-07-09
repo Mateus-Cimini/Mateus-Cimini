@@ -59,7 +59,7 @@ Portal fictício de notícias sobre Wild Rift com múltiplas páginas, tema escu
 ### 📱 [RiftContacts](https://mateus-cimini-rift-contacts.vercel.app/)
 Simulador de lista de contatos com modal, formulário, busca em tempo real e exclusão dinâmica.
 
-> ![RiftContacts Screenshot](./docs/riftcontacts-preview.png)  
+> ![RiftContacts Screenshot](doc/riftcontacts-preview.png)  
 > [🔗 Repositório](https://github.com/Mateus-Cimini/Rift-Contacts)
 
 ---
@@ -67,10 +67,9 @@ Simulador de lista de contatos com modal, formulário, busca em tempo real e exc
 ### 🧩 [montandoSuaPool](https://montando-sua-pool-6tvh.vercel.app/)
 App simples para montar sua pool de campeões, escolhendo a partir de uma lista com pesquisa, tabela dinâmica e contagem total.
 
-> ![montandoSuaPool Screenshot](./docs/pool-preview.png)  
+> ![montandoSuaPool Screenshot](doc/pool-preview.png)  
 > [🔗 Repositório](https://github.com/Mateus-Cimini/montandoSuaPool)
 
-> ⚠️ **Você pode adicionar as imagens `preview.png` de cada projeto dentro da pasta `/docs/` de cada repositório para esses prints funcionarem automaticamente.**
 
 ---
 
