@@ -51,8 +51,7 @@ Busco minha primeira oportunidade na área, com interesse em ambientes colaborat
 ### 🎮 [YoungRift](https://young-rift.vercel.app/)
 Portal fictício de notícias sobre Wild Rift com múltiplas páginas, tema escuro, modais, toasts, sidebar e minigame.
 
-> ![YoungRift Screenshot](![Preview](https://github.com/Mateus-Cimini/YoungRift/blob/main/docs/youngrift-preview.png?raw=true)
-)  
+> ![YoungRift Screenshot](./docs/youngrift-preview.png)  
 > [🔗 Repositório](https://github.com/Mateus-Cimini/YoungRift)
 
 ---
