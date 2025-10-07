@@ -56,11 +56,11 @@ Portal fictício de notícias sobre Wild Rift com múltiplas páginas, tema escu
 
 ---
 
-### 📱 [RiftContacts](https://mateus-cimini-rift-contacts.vercel.app/)
-Simulador de lista de contatos com modal, formulário, busca em tempo real e exclusão dinâmica.
+### 📱 [Linkado](https://linkado-ten.vercel.app/)
+Repositório pessoal de links com cards personalizados, backup via JSON e gerenciamento intuitivo no navegador.
 
-> ![RiftContacts Screenshot](doc/riftcontacts-preview.png)  
-> [🔗 Repositório](https://github.com/Mateus-Cimini/Rift-Contacts)
+> ![Linkado Screenshot](doc/riftcontacts-preview.png)  
+> [🔗 Repositório](https://github.com/Mateus-Cimini/Linkado)
 
 ---
 
