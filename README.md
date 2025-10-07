@@ -59,7 +59,7 @@ Portal fictício de notícias sobre Wild Rift com múltiplas páginas, tema escu
 ### 📱 [Linkado](https://linkado-ten.vercel.app/)
 Repositório pessoal de links com cards personalizados, backup via JSON e gerenciamento intuitivo no navegador.
 
-> ![Linkado Screenshot](doc/riftcontacts-preview.png)  
+> ![Linkado Screenshot](doc/linkado-preview.png)  
 > [🔗 Repositório](https://github.com/Mateus-Cimini/Linkado)
 
 ---
